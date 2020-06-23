@@ -247,3 +247,56 @@ footer {
     text-align: center;
     color: white;
 }
+
+
+
+#shopCart {}
+
+/*footer*/
+#bawah {
+    background-color: yellow;
+}
+
+#atas {
+    background: #2C1361;
+}
+
+#logo .img {
+    margin-right: 10px;
+}
+
+.fa-star,
+.fa-start-half {
+    color: purple;
+}
+
+.far-fa-start {
+    color: #475993;
+}
+
+.between {
+    border: 3px #0099CC;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.parent {
+    display: -moz-box;
+    /* Firefox */
+    display: -webkit-box;
+    /* Safari and Chrome */
+    display: -ms-flexbox;
+    /* Internet Explorer 10 */
+    display: box;
+    width: 100%;
+}
+
+.child2 {
+    -moz-box-flex: 5.0;
+    /* Firefox */
+    -webkit-box-flex: 5.0;
+    /* Safari and Chrome */
+    -ms-flex: 9.0;
+    /* Internet Explorer 10 */
+    box-flex: 9.0;
+}
